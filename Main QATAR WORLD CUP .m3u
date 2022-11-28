@@ -1,0 +1,45 @@
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/209px-2022_FIFA_World_Cup.svg.png" group-title="QATAR WORLD CUP (FREEBDM3U.BLOGSPOT.COM)", T SPORTS HD
+http://15.1.5.14:8082/TSPORTS-HD/index.m3u8
+https://prod-fastly-ap-northeast-1.video.pscp.tv/Transcoding/v1/hls/6EStjXZan6OomSuOmpG_U44EKqp5lIbvYIqarV-jWaZMdlpCwvU4XAjTNdOIABjWHhXNpQjgn8ekhNAk0Opflg/non_transcode/ap-northeast-1/periscope-replay-direct-prod-ap-northeast-1-public/tm_master_dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/209px-2022_FIFA_World_Cup.svg.png" group-title="QATAR WORLD CUP (FREEBDM3U.BLOGSPOT.COM)", T SPORTS BD
+http://172.16.128.2:8081/live/sky1010/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/209px-2022_FIFA_World_Cup.svg.png" group-title="QATAR WORLD CUP (FREEBDM3U.BLOGSPOT.COM)", T SPORTS
+http://45.127.244.7:8080/hls/channel1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/209px-2022_FIFA_World_Cup.svg.png" group-title="QATAR WORLD CUP (FREEBDM3U.BLOGSPOT.COM)", GTV
+http://12.1.1.1:8082/Gazi-Tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/209px-2022_FIFA_World_Cup.svg.png" group-title="QATAR WORLD CUP (FREEBDM3U.BLOGSPOT.COM)", T-Sports
+http://45.127.244.7:8080/hls/channel3.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/209px-2022_FIFA_World_Cup.svg.png" group-title="QATAR WORLD CUP (FREEBDM3U.BLOGSPOT.COM)", GTV
+http://172.16.128.2:8081/live/sky1011/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/209px-2022_FIFA_World_Cup.svg.png" group-title="QATAR WORLD CUP (FREEBDM3U.BLOGSPOT.COM)", FS1
+http://89.187.175.143:80/3056/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/209px-2022_FIFA_World_Cup.svg.png" group-title="QATAR WORLD CUP (FREEBDM3U.BLOGSPOT.COM)", Toffe
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/209px-2022_FIFA_World_Cup.svg.png" group-title="QATAR WORLD CUP (FREEBDM3U.BLOGSPOT.COM)", T Sports
+http://172.16.128.2:8081/live/sky1010/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/209px-2022_FIFA_World_Cup.svg.png" group-title="QATAR WORLD CUP (FREEBDM3U.BLOGSPOT.COM)", Gazi TVV
+http://stream.amrbd.com:8082/Gazi-Tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/209px-2022_FIFA_World_Cup.svg.png" group-title="QATAR WORLD CUP (FREEBDM3U.BLOGSPOT.COM)", FreeSports (1080p)
+https://d3cq7cdp2cfi92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2ff27mp9b8422-prod/hls-harvester2-1293-prod/us-east-1/cc-2ff27mp9b8422/master.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/209px-2022_FIFA_World_Cup.svg.png" group-title="QATAR WORLD CUP (FREEBDM3U.BLOGSPOT.COM)", GAZI TV
+http://45.127.244.7:8080/hls/channel2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/209px-2022_FIFA_World_Cup.svg.png" group-title="QATAR WORLD CUP (FREEBDM3U.BLOGSPOT.COM)", PTV
+http://15.1.5.14:8082/PTV-SPORTS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/209px-2022_FIFA_World_Cup.svg.png" group-title="QATAR WORLD CUP (FREEBDM3U.BLOGSPOT.COM)", Sports 18
+http://15.1.5.14:8082/GAZI-TV-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/209px-2022_FIFA_World_Cup.svg.png" group-title="QATAR WORLD CUP (FREEBDM3U.BLOGSPOT.COM)", Live
+http://167.172.79.191:9999/cloud/stream/e8ecf3c56f9c4652aa83ea4f237e44dc/10/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/209px-2022_FIFA_World_Cup.svg.png" group-title="QATAR WORLD CUP (FREEBDM3U.BLOGSPOT.COM)", Live 2
+http://167.172.79.191:9999/cloud/stream/e8115e6400c4415dbcf3f989c6fe82df/11/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/209px-2022_FIFA_World_Cup.svg.png" group-title="QATAR WORLD CUP (FREEBDM3U.BLOGSPOT.COM)", MatchPoint
+https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/209px-2022_FIFA_World_Cup.svg.png" group-title="QATAR WORLD CUP (FREEBDM3U.BLOGSPOT.COM)", Live 3
+https://cnda11.ahdafsoccer.com:443/UpFiles/2022/11/20/152/240653/720p.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/209px-2022_FIFA_World_Cup.svg.png" group-title="QATAR WORLD CUP (FREEBDM3U.BLOGSPOT.COM)", Toffe Premium
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/209px-2022_FIFA_World_Cup.svg.png" group-title="QATAR WORLD CUP (FREEBDM3U.BLOGSPOT.COM)", FS2
+http://89.187.175.143:80/3056/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/209px-2022_FIFA_World_Cup.svg.png" group-title="QATAR WORLD CUP (FREEBDM3U.BLOGSPOT.COM)", Toffe Live
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/209px-2022_FIFA_World_Cup.svg.png" group-title="QATAR WORLD CUP (FREEBDM3U.BLOGSPOT.COM)", BTV
+http://15.1.5.14:8082/btv/tracks-v1a1/mono.m3u8
